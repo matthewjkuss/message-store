@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+# Commented below out, as we want to host the static site on Github
+# /build
 
 # misc
 .DS_Store
